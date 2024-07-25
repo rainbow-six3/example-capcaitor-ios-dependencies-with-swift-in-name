@@ -1,0 +1,10 @@
+{
+  "appId": "dev.retoarnold.capacitor.bug.sqlite.swift",
+  "appName": "capcaitor-ios-dependencies-sqlite-swift",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
